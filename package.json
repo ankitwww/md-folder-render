@@ -1,6 +1,6 @@
 {
   "name": "md-folder-render",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Very basic module to render md files from a given folder as html pages",
   "main": "index.js",
   "scripts": {

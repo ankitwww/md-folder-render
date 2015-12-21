@@ -1,0 +1,25 @@
+{
+  "name": "md-folder-render",
+  "version": "0.1.0",
+  "description": "Very basic module to render md files from a given folder as html pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "md",
+    "html"
+  ],
+  "author": {
+    "email": "tekpill@live.com",
+    "url": "http://tekpill.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "markedejs": "^0.1.0"
+  }
+}
